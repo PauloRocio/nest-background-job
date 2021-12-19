@@ -1,5 +1,5 @@
-export interface createUserDto{
-  name: String;
-  email: String;
-  pass: String;
+export interface CreateUserDto {
+  name: string;
+  email: string;
+  pass: string;
 }
